@@ -1,3 +1,0 @@
-Beats Solo2 Wireless: Pretty much overwhelming bass. But I have to give it credit for extension and relative clarity all around; especially for Bluetooth. These would be pretty good on a bus or maybe an airplane. But otherwise, yeah- the bass is a bit obscene. (Apple Store, 2/2016)
-
-Beyerdynamic DT770 Pro 80: Not bad in the beginning. Kind of bright and crunchy up top. Bass is very well-measured. I'm actually kind of impressed by these; BUT in the end the highs are too harsh for any sort of long-term comfort. These can get fatiguing pretty quick. I guess this is what people talk about when they complain about the Beyer sound; although I don't think my DT880s are anywhere near this bright. (FOD, 2/2016)

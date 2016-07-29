@@ -1,3 +1,0 @@
-FitEar 334 v2: Warm but not as warm as the Parterre. Bass is still the feature here though. Quite lush sounding. It's pretty far from the UERM but definitely likeable. It might be a tad too bass tilted for me- that straight downward slope from the left. Very nice overall though. (FujiyaAVIC, 12/2015)
-
-Sennheiser Momentum In Ear I: A baby IE800, but with a big midbass hump. Treble is probably more tolerable than the IE800. But the overall tonality is a ski jump. (e-earphone, 12/2015)
