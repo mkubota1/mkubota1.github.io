@@ -1,3 +1,36 @@
+#header-wrap {
+    background: #212121;
+}
+
+#header-wrap .inner {
+    padding: 50px 10px 30px 10px;
+}
+
+.outer {
+    width: 100%;
+}
+
+.inner {
+    position: relative;
+    max-width: 640px;
+    padding: 20px 10px;
+    margin: auto;
+}
+
+#project_title {
+    margin: 0;
+    color: #fff;
+    font-size: 42px;
+    font-weight: 700;
+}
+
+#project_tagline {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 300;
+    background: none;
+}
+
 h1 {
     font-family: Arial;
 }
