@@ -31,11 +31,18 @@
     background: none;
 }
 
+.photo {
+    margin: auto;
+    display: block;
+}
+
+/*
 body {
     display: table;
     margin: auto;
     border-style: none;
 }
+*/
 
 p {
     font-family: Arial;
