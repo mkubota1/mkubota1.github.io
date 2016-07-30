@@ -40,8 +40,10 @@
 
 p {
     font-family: Arial;
+    font-size: 20px;
     border-style: none;
     text-align: center;
+    padding: 30px;
 }
 
 /*
