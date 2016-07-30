@@ -36,11 +36,12 @@
 .photo {
     margin: auto;
     display: block;
+    border: 2px solid black;
 }
 
 p {
     font-family: Arial;
-    font-size: 20px;
+    font-size: 16px;
     border-style: none;
     text-align: center;
     padding: 30px;
