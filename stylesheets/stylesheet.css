@@ -31,8 +31,15 @@
     background: none;
 }
 
+body {
+    display: table;
+    margin: auto;
+    border-style: none;
+}
+
 p {
     font-family: Arial;
+    border-style: none;
 }
 
 /*
